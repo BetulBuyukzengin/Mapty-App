@@ -12,15 +12,15 @@
 <br>
 
 
-![Forkify-App](src/img/maptyForm.png)
+![Forkify-App](img/maptyForm.png)
 
 
 <br>
 
-![Forkify-App](src/img/mapty.png)
+![Forkify-App](img/mapty.png)
 
 
-![Forkify-App](src/img/maptyCycling.png)
+![Forkify-App](img/maptyCycling.png)
 
 ## 🔴Projenin deploy edilmiş versiyonu :
  <h3><a href="https://mapty-app-betul.netlify.app/">Mapty-App</a></h3>
