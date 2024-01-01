@@ -15,15 +15,6 @@
   box-sizing: inherit;
 }
 
-/* 
-@media only screen and (max-width: 37.5em) {  } /*  600 px phone 
-  @media only screen and (max-width:56.25em){  }  /* 900 px tab-po
-
-
-  @media only screen and (max-width:75em) {  } /*1200 px tab-lan
-
-  @media only screen and (min-width:112.5em) {  } /*1800 pxbig-deskto
-   */
 
 html {
   font-size: 62.5%;
