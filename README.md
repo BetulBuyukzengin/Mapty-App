@@ -12,9 +12,9 @@
 <br>
 
 ## ✨Projenin görselleri :
-![Forkify-App](img/maptyForm.png)
-![Forkify-App](img/mapty.png)
-![Forkify-App](img/maptyCycling.png)
+![Mapty-App](img/maptyForm.png)
+![Mapty-App](img/mapty.png)
+![Mapty-App](img/maptyCycling.png)
 
 ## 🔴Projenin deploy edilmiş versiyonu :
  <h3><a href="https://mapty-app-betul.netlify.app/">Mapty-App</a></h3>
