@@ -1,6 +1,5 @@
 # Mapty-App
-<!-- Mapty-App ı, The Complate Javascript Course - 'Jonas Schmedtmann' eşliğinde  oluşturdum.-->
-## Bu uygulamada *leaflet kütüphanesini* kullanarak Mapty-App uygulamasını oluşturdum.
+## Jonas Schmedtmann eşliğinde  *leaflet kütüphanesini* kullanarak Mapty-App uygulamasını oluşturdum.
 
 ### Bu uygulamada yapabilecekleriniz:
 * Uygulamayı açtığınızda ilk olarak sizden konumunuza erişim izni isteyecektir. İzin verdiğiniz takdirde harita konumunuza göre yüklenecektir.
