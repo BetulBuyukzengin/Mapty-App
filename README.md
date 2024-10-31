@@ -1,6 +1,6 @@
 # Mapty-App
 ## Jonas Schmedtmann eşliğinde  *leaflet kütüphanesini* kullanarak Mapty-App uygulamasını oluşturdum.
-
+Javascript ve OOP tasarım desenini de kullanarak geliştirdiğim bu web uygulamasında yürüyüş ve bisiklet aktivitelerinizin verilerini kaydedebileceğiniz, konumunuzu belirleyebileceğiniz ve otomatik olarak konumlandırabileceğiniz veya harita üzerinde manuel olarak seçebileceğiniz bir uygulamadır. Mapty uygulaması ile verilerinizi güvenli bir şekilde uygulama üzerinde saklayabilirsiniz. (local storage)
 ### Bu uygulamada yapabilecekleriniz:
 * Uygulamayı açtığınızda ilk olarak sizden konumunuza erişim izni isteyecektir. İzin verdiğiniz takdirde harita konumunuza göre yüklenecektir.
 * O an ki konumunuz dışında istediğiniz konumu işaretleyebilirsiniz.
